@@ -19,3 +19,8 @@ while True:
         print("ви не повнолітній")
     break
 
+print("К")
+print("О")
+print("С")
+print("Т")
+print("Я")
